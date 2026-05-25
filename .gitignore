@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.py[cod]
+*.class
+*.jar
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+reporte_setp.txt
+*.log
